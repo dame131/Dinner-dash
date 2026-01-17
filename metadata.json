@@ -1,0 +1,7 @@
+{
+  "name": "Cyber-Chef: Dash & Design",
+  "description": "A high-fidelity 2D cooking management game with a cyberpunk aesthetic, featuring 50 unlocked levels, instant upgrades, and AI-powered kitchen customization using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
